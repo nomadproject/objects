@@ -1,0 +1,193 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0, 
+            "componentType" : 5123, 
+            "count" : 111120, 
+            "max" : [
+                21848
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 1, 
+            "componentType" : 5126, 
+            "count" : 21849, 
+            "max" : [
+                3.0879299640655518, 
+                3.0429201126098633, 
+                0.4542739987373352
+            ], 
+            "min" : [
+                -2.8288700580596924, 
+                -3.1502199172973633, 
+                -0.6414980292320251
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 2, 
+            "componentType" : 5126, 
+            "count" : 21849, 
+            "max" : [
+                0.9985045790672302, 
+                0.9932554364204407, 
+                0.999969482421875
+            ], 
+            "min" : [
+                -0.9996337890625, 
+                -0.999359130859375, 
+                -0.999969482421875
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 3, 
+            "componentType" : 5126, 
+            "count" : 21849, 
+            "max" : [
+                0.9862509965896606, 
+                0.9862797157838941
+            ], 
+            "min" : [
+                0.01374901831150055, 
+                0.013720273971557617
+            ], 
+            "type" : "VEC2"
+        }
+    ], 
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter", 
+        "version" : "2.0"
+    }, 
+    "bufferViews" : [
+        {
+            "buffer" : 0, 
+            "byteLength" : 222240, 
+            "byteOffset" : 0, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 262188, 
+            "byteOffset" : 222240, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 262188, 
+            "byteOffset" : 484428, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 174792, 
+            "byteOffset" : 746616, 
+            "target" : 34962
+        }
+    ], 
+    "buffers" : [
+        {
+            "byteLength" : 921408, 
+            "uri" : "bowl_optimised.bin"
+        }
+    ], 
+    "images" : [
+        {
+            "name" : "bowl_diffuse", 
+            "uri" : "bowl_diffuse.jpg"
+        }, 
+        {
+            "name" : "bowl_normal", 
+            "uri" : "bowl_normal.jpg"
+        }
+    ], 
+    "materials" : [
+        {
+            "emissiveTexture" : {
+                "index" : 0
+            }, 
+            "name" : "diffuse", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.6400000190734865, 
+                    0.6400000190734865, 
+                    0.6400000190734865, 
+                    1.0
+                ], 
+                "baseColorTexture" : {
+                    "index" : 0
+                }, 
+                "metallicFactor" : 0.0
+            }
+        }, 
+        {
+            "name" : "normals", 
+            "normalTexture" : {
+                "index" : 1
+            }, 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.6400000190734865, 
+                    0.6400000190734865, 
+                    0.6400000190734865, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }
+    ], 
+    "meshes" : [
+        {
+            "name" : "model-hi_fixed", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2, 
+                        "POSITION" : 1, 
+                        "TEXCOORD_0" : 3
+                    }, 
+                    "indices" : 0, 
+                    "material" : 0
+                }
+            ]
+        }
+    ], 
+    "nodes" : [
+        {
+            "mesh" : 0, 
+            "name" : "model-hi_fixed", 
+            "rotation" : [
+                0.7071068286895752, 
+                0.0, 
+                -0.0, 
+                0.7071067094802856
+            ]
+        }
+    ], 
+    "samplers" : [
+        {}
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "name" : "Scene", 
+            "nodes" : [
+                0
+            ]
+        }
+    ], 
+    "textures" : [
+        {
+            "sampler" : 0, 
+            "source" : 0
+        }, 
+        {
+            "sampler" : 0, 
+            "source" : 1
+        }
+    ]
+}
