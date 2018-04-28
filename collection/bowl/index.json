@@ -1,0 +1,44 @@
+{
+  "id": "https://nomadproject.github.io/objects/collection/bowl/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://nomadproject.github.io/objects/collection/bowl/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://nomadproject.github.io/objects/collection/bowl/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nomadproject.github.io/objects/collection/bowl/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomadproject.github.io/objects/collection/bowl/_bowl/bowl.gltf",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json",
+                "label": {
+                  "@none": [
+                    "_bowl"
+                  ]
+                }
+              },
+              "target": "https://nomadproject.github.io/objects/collection/bowl/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_bowl"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "bowl"
+    ]
+  }
+}
