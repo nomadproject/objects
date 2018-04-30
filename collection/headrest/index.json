@@ -20,7 +20,7 @@
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [
-                    "Headrest"
+                    "_headrest"
                   ]
                 }
               },
@@ -31,14 +31,14 @@
       ],
       "label": {
         "@none": [
-          "Headrest"
+          "_headrest"
         ]
       }
     }
   ],
   "label": {
     "@none": [
-      "headrest"
+      "Headrest"
     ]
   }
 }

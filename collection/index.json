@@ -3,20 +3,20 @@
   "type": "Collection",
   "items": [
     {
-      "id": "https://nomadproject.github.io/objects/collection/bowl/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "bowl"
-        ]
-      }
-    },
-    {
       "id": "https://nomadproject.github.io/objects/collection/headrest/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "headrest"
+          "Headrest"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.github.io/objects/collection/bowl/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Somali Woven Basket"
         ]
       }
     }

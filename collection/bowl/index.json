@@ -20,7 +20,7 @@
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [
-                    "Somali Woven Basket"
+                    "_bowl"
                   ]
                 }
               },
@@ -31,14 +31,14 @@
       ],
       "label": {
         "@none": [
-          "Somali Woven Basket"
+          "_bowl"
         ]
       }
     }
   ],
   "label": {
     "@none": [
-      "bowl"
+      "Somali Woven Basket"
     ]
   }
 }
