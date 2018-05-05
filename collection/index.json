@@ -3,6 +3,15 @@
   "type": "Collection",
   "items": [
     {
+      "id": "https://nomadproject.github.io/objects/collection/gourd/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Gourd"
+        ]
+      }
+    },
+    {
       "id": "https://nomadproject.github.io/objects/collection/headrest/index.json",
       "type": "Manifest",
       "label": {
@@ -12,20 +21,11 @@
       }
     },
     {
-      "id": "https://nomadproject.github.io/objects/collection/gourd/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Somali Gourd"
-        ]
-      }
-    },
-    {
       "id": "https://nomadproject.github.io/objects/collection/bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Somali Woven Basket"
+          "Woven Basket"
         ]
       }
     }
