@@ -12,6 +12,15 @@
       }
     },
     {
+      "id": "https://nomadproject.github.io/objects/collection/gourd/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Somali Gourd"
+        ]
+      }
+    },
+    {
       "id": "https://nomadproject.github.io/objects/collection/bowl/index.json",
       "type": "Manifest",
       "label": {
