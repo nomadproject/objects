@@ -33,7 +33,21 @@
         "@none": [
           "_headrest"
         ]
-      }
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "CC Attribution-NonCommercial-ShareAlike"
+            ]
+          }
+        }
+      ]
     }
   ],
   "label": {
