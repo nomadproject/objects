@@ -33,26 +33,27 @@
         "@none": [
           "_bowl"
         ]
-      },
-      "metadata": [
-        {
-          "label": {
-            "@none": [
-              "license"
-            ]
-          },
-          "value": {
-            "@none": [
-              "CC Attribution-NonCommercial-ShareAlike"
-            ]
-          }
-        }
-      ]
+      }
     }
   ],
   "label": {
     "@none": [
       "Woven Basket"
     ]
-  }
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "CC Attribution-NonCommercial-ShareAlike"
+        ]
+      }
+    }
+  ],
+  "attribution": "British Museum"
 }
