@@ -15,7 +15,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.github.io/objects/collection/bowl/_bowl/assets/bowl.gltf",
+                "id": "https://nomadproject.github.io/objects/collection/bowl/_bowl/bowl.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
