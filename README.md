@@ -1,3 +1,3 @@
 # objects
 
-https://nomadproject.github.io/objects/
+https://nomad-project.co.uk/objects/
