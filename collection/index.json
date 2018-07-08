@@ -1,9 +1,9 @@
 {
-  "id": "https://nomadproject.github.io/objects/collection/index.json",
+  "id": "https://nomad-project.co.uk/objects/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://nomadproject.github.io/objects/collection/gourd/index.json",
+      "id": "https://nomad-project.co.uk/objects/collection/gourd/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "https://nomadproject.github.io/objects/collection/headrest/index.json",
+      "id": "https://nomad-project.co.uk/objects/collection/headrest/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://nomadproject.github.io/objects/collection/bowl/index.json",
+      "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
