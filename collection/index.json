@@ -39,7 +39,13 @@
         "@none": [
           "Incense Burner"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomad-project.co.uk/objects/collection/incense-burner/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json",

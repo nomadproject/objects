@@ -56,5 +56,11 @@
     }
   ],
   "attribution": "British Museum",
-  "description": "Carved out of a special stone primarily found in Ceelbuur, in the South and many other Somali regions. It is used for burning Frankincense, Myrrh and other kinds of incense."
+  "description": "Carved out of a special stone primarily found in Ceelbuur, in the South and many other Somali regions. It is used for burning Frankincense, Myrrh and other kinds of incense.",
+  "thumbnail": [
+    {
+      "id": "https://nomad-project.co.uk/objects/collection/incense-burner/thumb.jpg",
+      "type": "Image"
+    }
+  ]
 }
