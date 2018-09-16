@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/nomadproject/objects#readme",
   "dependencies": {
-    "biiif-cli": "0.0.17"
+    "biiif-cli": "0.1.6"
   }
 }
