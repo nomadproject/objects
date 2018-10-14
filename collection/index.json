@@ -48,6 +48,21 @@
       ]
     },
     {
+      "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Wooden Bowl"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
       "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json",
       "type": "Manifest",
       "label": {

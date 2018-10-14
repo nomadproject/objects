@@ -1,0 +1,65 @@
+{
+  "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/_wooden-bowl/wooden-bowl.gltf",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json",
+                "label": {
+                  "@none": [
+                    "_wooden-bowl"
+                  ]
+                }
+              },
+              "target": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wooden-bowl"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Wooden Bowl"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "CC Attribution-NonCommercial-ShareAlike"
+        ]
+      }
+    }
+  ],
+  "attribution": "British Museum",
+  "thumbnail": [
+    {
+      "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}

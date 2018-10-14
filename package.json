@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/biiif collection -u https://nomad-project.co.uk/objects/collection"
+    "build": "npx biiif collection -u https://nomad-project.co.uk/objects/collection"
   },
   "repository": {
     "type": "git",
