@@ -48,21 +48,6 @@
       ]
     },
     {
-      "id": "https://nomadproject.netlify.com/collection/serving-dish/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Serving Dish"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://nomadproject.netlify.com/collection/serving-dish/thumb.jpg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
       "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json",
       "type": "Manifest",
       "label": {
@@ -88,6 +73,21 @@
       "thumbnail": [
         {
           "id": "https://nomadproject.netlify.com/collection/bowl/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/woven-lid/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Woven Lid"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/woven-lid/thumb.jpg",
           "type": "Image"
         }
       ]

@@ -1,0 +1,66 @@
+{
+  "id": "https://nomadproject.netlify.com/collection/woven-lid/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/woven-lid/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/woven-lid/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nomadproject.netlify.com/collection/woven-lid/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomadproject.netlify.com/collection/woven-lid/_woven-lid/woven-lid.gltf",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json",
+                "label": {
+                  "@none": [
+                    "_woven-lid"
+                  ]
+                }
+              },
+              "target": "https://nomadproject.netlify.com/collection/woven-lid/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_woven-lid"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Woven Lid"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "CC Attribution-NonCommercial-ShareAlike"
+        ]
+      }
+    }
+  ],
+  "attribution": "Digitised during a workshop at Elays Network (http://elaysnetwork.com)",
+  "description": "Used traditionally to cover food stored in baskets, it is made of a tree with grass-like leaves. These fibres are woven to create a hardy material that is durable and mobile.",
+  "thumbnail": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/woven-lid/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}
