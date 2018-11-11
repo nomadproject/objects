@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json",
+  "id": "https://nomadproject.netlify.com/objects/collection/bowl/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json/canvas/0",
+      "id": "https://nomadproject.netlify.com/objects/collection/bowl/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomadproject.netlify.com/objects/collection/bowl/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json/canvas/0/annotation/0",
+              "id": "https://nomadproject.netlify.com/objects/collection/bowl/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project.co.uk/objects/collection/bowl/_bowl/bowl.gltf",
+                "id": "https://nomadproject.netlify.com/objects/collection/bowl/_bowl/bowl.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomad-project.co.uk/objects/collection/bowl/index.json/canvas/0"
+              "target": "https://nomadproject.netlify.com/objects/collection/bowl/index.json/canvas/0"
             }
           ]
         }
@@ -59,7 +59,7 @@
   "description": "It is used to separate soil and the impure particles from maize – a process called Haadin.",
   "thumbnail": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/bowl/thumb.jpg",
+      "id": "https://nomadproject.netlify.com/objects/collection/bowl/thumb.jpg",
       "type": "Image"
     }
   ]

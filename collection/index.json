@@ -1,9 +1,9 @@
 {
-  "id": "https://nomad-project.co.uk/objects/collection/index.json",
+  "id": "https://nomadproject.netlify.com/objects/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/gourd/index.json",
+      "id": "https://nomadproject.netlify.com/objects/collection/gourd/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/gourd/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/objects/collection/gourd/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project.co.uk/objects/collection/headrest/index.json",
+      "id": "https://nomadproject.netlify.com/objects/collection/headrest/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/headrest/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/objects/collection/headrest/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project.co.uk/objects/collection/incense-burner/index.json",
+      "id": "https://nomadproject.netlify.com/objects/collection/incense-burner/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +42,28 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/incense-burner/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/objects/collection/incense-burner/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/index.json",
+      "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Serving Dish"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,13 +72,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/wooden-bowl/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project.co.uk/objects/collection/bowl/index.json",
+      "id": "https://nomadproject.netlify.com/objects/collection/bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -72,7 +87,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/bowl/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/objects/collection/bowl/thumb.jpg",
           "type": "Image"
         }
       ]

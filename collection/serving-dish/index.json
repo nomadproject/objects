@@ -1,44 +1,44 @@
 {
-  "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/index.json",
+  "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/index.json/canvas/0",
+      "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/index.json/canvas/0/annotation/0",
+              "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/_wooden-bowl/wooden-bowl.gltf",
+                "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/_serving-dish/serving-dish.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [
-                    "_wooden-bowl"
+                    "_serving-dish"
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/index.json/canvas/0"
+              "target": "https://nomadproject.netlify.com/objects/collection/serving-dish/index.json/canvas/0"
             }
           ]
         }
       ],
       "label": {
         "@none": [
-          "_wooden-bowl"
+          "_serving-dish"
         ]
       }
     }
   ],
   "label": {
     "@none": [
-      "Wooden Bowl"
+      "Serving Dish"
     ]
   },
   "metadata": [
@@ -55,10 +55,9 @@
       }
     }
   ],
-  "attribution": "British Museum",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/objects/collection/wooden-bowl/thumb.jpg",
+      "id": "https://nomadproject.netlify.com/objects/collection/serving-dish/thumb.jpg",
       "type": "Image"
     }
   ]
