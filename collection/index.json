@@ -48,6 +48,21 @@
       ]
     },
     {
+      "id": "https://nomadproject.netlify.com/collection/milk-vessel/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Milk Vessel (dhiil)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/milk-vessel/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
       "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json",
       "type": "Manifest",
       "label": {
