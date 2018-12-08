@@ -1,0 +1,25 @@
+{
+  "id": "https://nomadproject.netlify.com/collection/wooden-comb/index.json",
+  "type": "Manifest",
+  "items": [],
+  "label": {
+    "@none": [
+      "Wooden Comb"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "CC Attribution-NonCommercial-ShareAlike"
+        ]
+      }
+    }
+  ],
+  "attribution": "Yussuf Ahmed"
+}

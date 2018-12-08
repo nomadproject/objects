@@ -3,11 +3,29 @@
   "type": "Collection",
   "items": [
     {
+      "id": "https://nomadproject.netlify.com/collection/drinking-vessel/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Drinking Vessel"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/gold-broach/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Gold Broach"
+        ]
+      }
+    },
+    {
       "id": "https://nomadproject.netlify.com/collection/gourd/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Gourd"
+          "Gourd (Ubo)"
         ]
       },
       "thumbnail": [
@@ -22,7 +40,7 @@
       "type": "Manifest",
       "label": {
         "@none": [
-          "Headrest"
+          "Headrest (Barkin)"
         ]
       },
       "thumbnail": [
@@ -37,7 +55,7 @@
       "type": "Manifest",
       "label": {
         "@none": [
-          "Incense Burner"
+          "Incense Burner (Dabqaad)"
         ]
       },
       "thumbnail": [
@@ -52,7 +70,7 @@
       "type": "Manifest",
       "label": {
         "@none": [
-          "Milk Vessel (dhiil)"
+          "Milk Vessel (Dhiil)"
         ]
       },
       "thumbnail": [
@@ -63,11 +81,35 @@
       ]
     },
     {
+      "id": "https://nomadproject.netlify.com/collection/serving-vessel/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Serving Vessel"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/toy-lion/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Toy Lion"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/toy-lion/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
       "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Wooden Bowl"
+          "Wooden Bowl (Xeero)"
         ]
       },
       "thumbnail": [
@@ -78,16 +120,34 @@
       ]
     },
     {
-      "id": "https://nomadproject.netlify.com/collection/bowl/index.json",
+      "id": "https://nomadproject.netlify.com/collection/wooden-comb/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Woven Basket"
+          "Wooden Comb"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Wooden Spoon"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/woven-basket/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Woven Basket (Masaf)"
         ]
       },
       "thumbnail": [
         {
-          "id": "https://nomadproject.netlify.com/collection/bowl/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/woven-basket/thumb.jpg",
           "type": "Image"
         }
       ]
