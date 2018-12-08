@@ -61,5 +61,11 @@
       }
     }
   ],
-  "attribution": "Yussuf Ahmed"
+  "attribution": "Yussuf Ahmed",
+  "thumbnail": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/drinking-vessel/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
 }

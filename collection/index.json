@@ -9,7 +9,13 @@
         "@none": [
           "Drinking Vessel"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/drinking-vessel/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://nomadproject.netlify.com/collection/gold-broach/index.json",
@@ -18,7 +24,13 @@
         "@none": [
           "Gold Broach"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/gold-broach/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://nomadproject.netlify.com/collection/gourd/index.json",
@@ -87,7 +99,13 @@
         "@none": [
           "Serving Vessel"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/serving-vessel/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://nomadproject.netlify.com/collection/toy-lion/index.json",
@@ -126,7 +144,13 @@
         "@none": [
           "Wooden Spoon"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://nomadproject.netlify.com/collection/woven-basket/index.json",

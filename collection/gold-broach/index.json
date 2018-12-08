@@ -61,5 +61,11 @@
       }
     }
   ],
-  "attribution": "Ayan Lowe"
+  "attribution": "Ayan Lowe",
+  "thumbnail": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/gold-broach/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
 }
