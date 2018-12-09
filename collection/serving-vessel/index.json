@@ -33,13 +33,7 @@
         "@none": [
           "_serving-vessel"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://nomadproject.netlify.com/collection/serving-vessel/_serving-vessel/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {

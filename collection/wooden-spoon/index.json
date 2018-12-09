@@ -33,13 +33,7 @@
         "@none": [
           "_wooden-spoon"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/_wooden-spoon/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
