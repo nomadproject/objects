@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:preview": "npx biiif collection -u https://nomadproject.netlify.com/collection -g true",
-    "build:dev": "npx biiif collection -u https://localhost:5000/objects/collection  -g true",
-    "build": "npx biiif collection -u https://nomad-project.co.uk/objects/collection -g true",
+    "build:preview": "npx biiif collection -u https://nomadproject.netlify.com/collection",
+    "build:dev": "npx biiif collection -u https://localhost:5000/objects/collection ",
+    "build": "npx biiif collection -u https://nomad-project.co.uk/objects/collection",
     "start": "npx serve"
   },
   "repository": {
