@@ -1,9 +1,9 @@
 {
-  "id": "https://localhost:5000/objects/collection/index.json",
+  "id": "https://nomadproject.netlify.com/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://localhost:5000/objects/collection/gold-broach/index.json",
+      "id": "https://nomadproject.netlify.com/collection/gold-broach/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/gold-broach/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/gold-broach/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/gourd/index.json",
+      "id": "https://nomadproject.netlify.com/collection/gourd/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/gourd/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/gourd/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/headrest/index.json",
+      "id": "https://nomadproject.netlify.com/collection/headrest/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +42,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/headrest/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/headrest/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/incense-burner/index.json",
+      "id": "https://nomadproject.netlify.com/collection/incense-burner/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,13 +57,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/incense-burner/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/incense-burner/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/toy-lion/index.json",
+      "id": "https://nomadproject.netlify.com/collection/toy-lion/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -72,13 +72,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/toy-lion/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/toy-lion/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/wooden-bowl/index.json",
+      "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -87,13 +87,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/wooden-bowl/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-bowl/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/index.json",
+      "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -102,13 +102,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/wooden-milk-vessel-with-leather-strap/index.json",
+      "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -117,13 +117,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/wooden-milk-vessel-with-leather-strap/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/wooden-spoon/index.json",
+      "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -132,13 +132,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/wooden-spoon/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/woven-basket/index.json",
+      "id": "https://nomadproject.netlify.com/collection/woven-basket/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -147,13 +147,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/woven-basket/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/woven-basket/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/woven-lid/index.json",
+      "id": "https://nomadproject.netlify.com/collection/woven-lid/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -162,13 +162,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/woven-lid/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/woven-lid/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://localhost:5000/objects/collection/woven-milk-vessel/index.json",
+      "id": "https://nomadproject.netlify.com/collection/woven-milk-vessel/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -177,7 +177,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://localhost:5000/objects/collection/woven-milk-vessel/thumb.jpg",
+          "id": "https://nomadproject.netlify.com/collection/woven-milk-vessel/thumb.jpg",
           "type": "Image"
         }
       ]
