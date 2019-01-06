@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json",
+  "id": "https://localhost:5000/objects/collection/wooden-bowl/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json/canvas/0",
+      "id": "https://localhost:5000/objects/collection/wooden-bowl/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json/canvas/0/annotationpage/0",
+          "id": "https://localhost:5000/objects/collection/wooden-bowl/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json/canvas/0/annotation/0",
+              "id": "https://localhost:5000/objects/collection/wooden-bowl/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/wooden-bowl/_wooden-bowl/wooden-bowl.gltf",
+                "id": "https://localhost:5000/objects/collection/wooden-bowl/_wooden-bowl/wooden-bowl.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/wooden-bowl/index.json/canvas/0"
+              "target": "https://localhost:5000/objects/collection/wooden-bowl/index.json/canvas/0"
             }
           ]
         }
@@ -50,15 +50,76 @@
       },
       "value": {
         "@none": [
-          "CC Attribution-NonCommercial-ShareAlike"
+          "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Nomad project (http://nomad-project.co.uk)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "unknown"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "3D model"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
         ]
       }
     }
   ],
   "attribution": "Ruqiyah Hassan",
+  "description": "Used for serving food such as popcorn or soor, a ground maize, that is often served with a meat stew. This can also be referred to as Xeedho, a wedding vessel given to the grooms family. It would often hold preserved meat, sweets, or incense.",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/wooden-bowl/thumb.jpg",
+      "id": "https://localhost:5000/objects/collection/wooden-bowl/thumb.jpg",
       "type": "Image"
     }
   ]

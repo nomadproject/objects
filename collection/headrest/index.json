@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/headrest/index.json",
+  "id": "https://localhost:5000/objects/collection/headrest/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0",
+      "id": "https://localhost:5000/objects/collection/headrest/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0/annotationpage/0",
+          "id": "https://localhost:5000/objects/collection/headrest/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0/annotation/0",
+              "id": "https://localhost:5000/objects/collection/headrest/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/headrest/_headrest/headrest.gltf",
+                "id": "https://localhost:5000/objects/collection/headrest/_headrest/headrest.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0"
+              "target": "https://localhost:5000/objects/collection/headrest/index.json/canvas/0"
             }
           ]
         }
@@ -50,16 +50,76 @@
       },
       "value": {
         "@none": [
-          "CC Attribution-NonCommercial-ShareAlike"
+          "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Nomad project (http://nomad-project.co.uk)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "20thC (late)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "18th June 2016"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "3D model"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
         ]
       }
     }
   ],
   "attribution": "British Museum",
-  "description": "Barkin is themodern Somali for pillow. This headrest is made of light but sturdy wood. Nomadic herders carried portable headrests and used them to rest while keeping an eye on their herds. They were not made for comfort, as herders needed to stay alert.",
+  "description": "Barkin is the modern Somali for pillow. This headrest is made of light but sturdy wood. Nomadic herders carried portable headrests and used them to rest while keeping an eye on their herds. They were not made for comfort, as herders needed to stay alert. British Museum collection info https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3358464&partId=1",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/headrest/thumb.jpg",
+      "id": "https://localhost:5000/objects/collection/headrest/thumb.jpg",
       "type": "Image"
     }
   ]

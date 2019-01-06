@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json",
+  "id": "https://localhost:5000/objects/collection/wooden-spoon/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0",
+      "id": "https://localhost:5000/objects/collection/wooden-spoon/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0/annotationpage/0",
+          "id": "https://localhost:5000/objects/collection/wooden-spoon/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0/annotation/0",
+              "id": "https://localhost:5000/objects/collection/wooden-spoon/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/wooden-spoon/_wooden-spoon/wooden-spoon.jpg",
+                "id": "https://localhost:5000/objects/collection/wooden-spoon/_wooden-spoon/wooden-spoon.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0"
+              "target": "https://localhost:5000/objects/collection/wooden-spoon/index.json/canvas/0"
             }
           ]
         }
@@ -38,7 +38,7 @@
   ],
   "label": {
     "@none": [
-      "Wooden Spoon"
+      "Wooden Spoon (Fandhaal)"
     ]
   },
   "metadata": [
@@ -50,15 +50,76 @@
       },
       "value": {
         "@none": [
-          "CC Attribution-NonCommercial-ShareAlike"
+          "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Nomad project (http://nomad-project.co.uk)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          2004
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Photograph"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
         ]
       }
     }
   ],
   "attribution": "Yussuf Ahmed",
+  "description": "In the Somali region, spoons are an important everyday tool within Nomadic life. They are traditionally made by men and used for preparing and serving food. This spoon has an ornately decorated handle.",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/wooden-spoon/thumb.jpeg",
+      "id": "https://localhost:5000/objects/collection/wooden-spoon/thumb.jpeg",
       "type": "Image"
     }
   ]

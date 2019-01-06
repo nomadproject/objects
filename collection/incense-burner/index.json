@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/incense-burner/index.json",
+  "id": "https://localhost:5000/objects/collection/incense-burner/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/incense-burner/index.json/canvas/0",
+      "id": "https://localhost:5000/objects/collection/incense-burner/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/incense-burner/index.json/canvas/0/annotationpage/0",
+          "id": "https://localhost:5000/objects/collection/incense-burner/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/incense-burner/index.json/canvas/0/annotation/0",
+              "id": "https://localhost:5000/objects/collection/incense-burner/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/incense-burner/_incense-burner/incense-burner.gltf",
+                "id": "https://localhost:5000/objects/collection/incense-burner/_incense-burner/incense-burner.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/incense-burner/index.json/canvas/0"
+              "target": "https://localhost:5000/objects/collection/incense-burner/index.json/canvas/0"
             }
           ]
         }
@@ -50,16 +50,76 @@
       },
       "value": {
         "@none": [
-          "CC Attribution-NonCommercial-ShareAlike"
+          "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Nomad project (http://nomad-project.co.uk)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "20thC (late)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "18th June 2016"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "3D model"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
         ]
       }
     }
   ],
   "attribution": "British Museum",
-  "description": "Carved out of a special stone primarily found in Ceelbuur, in the South and many other Somali regions. It is used for burning Frankincense, Myrrh and other kinds of incense.",
+  "description": "Also referred to as Girgire and Idin. Carved out of a special stone primarily found in Ceelbuur, in the South and many other Somali regions. It is used for burning Frankincense, Myrrh and other kinds of incense. British Museum collection info http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=578024&partId=1",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/incense-burner/thumb.jpg",
+      "id": "https://localhost:5000/objects/collection/incense-burner/thumb.jpg",
       "type": "Image"
     }
   ]

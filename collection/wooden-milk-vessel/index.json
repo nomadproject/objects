@@ -1,44 +1,44 @@
 {
-  "id": "https://localhost:5000/objects/collection/gold-broach/index.json",
+  "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0",
+      "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0/annotationpage/0",
+          "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0/annotation/0",
+              "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://localhost:5000/objects/collection/gold-broach/_gold-broach/gold-broach.jpg",
+                "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/_wooden-milk-vessel/wooden-milk-vessel.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_gold-broach"
+                    "_wooden-milk-vessel"
                   ]
                 }
               },
-              "target": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0"
+              "target": "https://localhost:5000/objects/collection/wooden-milk-vessel/index.json/canvas/0"
             }
           ]
         }
       ],
       "label": {
         "@none": [
-          "_gold-broach"
+          "_wooden-milk-vessel"
         ]
       }
     }
   ],
   "label": {
     "@none": [
-      "Gold Broach"
+      "Wooden Milk Vessel (Dhiil)"
     ]
   },
   "metadata": [
@@ -74,7 +74,7 @@
       },
       "value": {
         "@none": [
-          "unknown"
+          2004
         ]
       }
     },
@@ -98,7 +98,7 @@
       },
       "value": {
         "@none": [
-          "3D model"
+          "Photograph"
         ]
       }
     },
@@ -115,11 +115,11 @@
       }
     }
   ],
-  "attribution": "Ayan Lowe",
-  "description": "Received as a gift, this broach is of two gold leaves attached at the stalk.",
+  "attribution": "Yussuf Ahmed",
+  "description": "Wooden drinking vessel with a lid which serves as a cup, decorated with geometric shapes, this item was created for decorative purposes.",
   "thumbnail": [
     {
-      "id": "https://localhost:5000/objects/collection/gold-broach/thumb.jpeg",
+      "id": "https://localhost:5000/objects/collection/wooden-milk-vessel/thumb.jpeg",
       "type": "Image"
     }
   ]

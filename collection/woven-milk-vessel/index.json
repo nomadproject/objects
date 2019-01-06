@@ -1,44 +1,44 @@
 {
-  "id": "https://localhost:5000/objects/collection/gold-broach/index.json",
+  "id": "https://localhost:5000/objects/collection/woven-milk-vessel/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0",
+      "id": "https://localhost:5000/objects/collection/woven-milk-vessel/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0/annotationpage/0",
+          "id": "https://localhost:5000/objects/collection/woven-milk-vessel/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0/annotation/0",
+              "id": "https://localhost:5000/objects/collection/woven-milk-vessel/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://localhost:5000/objects/collection/gold-broach/_gold-broach/gold-broach.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
+                "id": "https://localhost:5000/objects/collection/woven-milk-vessel/_woven-milk-vessel/milk-vessel.gltf",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json",
                 "label": {
                   "@none": [
-                    "_gold-broach"
+                    "_woven-milk-vessel"
                   ]
                 }
               },
-              "target": "https://localhost:5000/objects/collection/gold-broach/index.json/canvas/0"
+              "target": "https://localhost:5000/objects/collection/woven-milk-vessel/index.json/canvas/0"
             }
           ]
         }
       ],
       "label": {
         "@none": [
-          "_gold-broach"
+          "_woven-milk-vessel"
         ]
       }
     }
   ],
   "label": {
     "@none": [
-      "Gold Broach"
+      "Woven Milk Vessel (Dhiil)"
     ]
   },
   "metadata": [
@@ -74,7 +74,7 @@
       },
       "value": {
         "@none": [
-          "unknown"
+          2018
         ]
       }
     },
@@ -115,11 +115,11 @@
       }
     }
   ],
-  "attribution": "Ayan Lowe",
-  "description": "Received as a gift, this broach is of two gold leaves attached at the stalk.",
+  "attribution": "Deeqa Ahmed",
+  "description": "This milk container is usually found in the northern and central regions. It is made out of Caw, a particularly pliable plant, the fibres of which are used to skillfully weave this vessel. In this container's current form it would not be able to hold milk, it would need to be made waterproof, this is achieved through using goat fat to line the inside of the container.",
   "thumbnail": [
     {
-      "id": "https://localhost:5000/objects/collection/gold-broach/thumb.jpeg",
+      "id": "https://localhost:5000/objects/collection/woven-milk-vessel/thumb.jpg",
       "type": "Image"
     }
   ]
