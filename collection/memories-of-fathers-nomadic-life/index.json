@@ -33,13 +33,7 @@
         "@none": [
           "_memories-of-fathers-nomadic-life"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/_memories-of-fathers-nomadic-life/thumb.jpg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
@@ -122,5 +116,11 @@
     }
   ],
   "attribution": "Abdi Hirsi",
-  "description": "Recollecting memories of his nomadic father and stories he used to tell over the fire. Interviewee also speaks about the importance of recognising the artistry in Somali crafts."
+  "description": "Recollecting memories of his nomadic father and stories he used to tell over the fire. Interviewee also speaks about the importance of recognising the artistry in Somali crafts.",
+  "thumbnail": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/thumb.jpg",
+      "type": "Image"
+    }
+  ]
 }

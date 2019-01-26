@@ -33,13 +33,7 @@
         "@none": [
           "_description-of-objects-acquired-in-mogadishu"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/_description-of-objects-acquired-in-mogadishu/thumb.jpg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
@@ -122,5 +116,11 @@
     }
   ],
   "attribution": "Ayan Lowe",
-  "description": "Born in Somalia in the early '60s the interviewee discusses the objects her mother acquired while they were in Mogadishu."
+  "description": "Born in Somalia in the early '60s the interviewee discusses the objects her mother acquired while they were in Mogadishu.",
+  "thumbnail": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/thumb.jpg",
+      "type": "Image"
+    }
+  ]
 }
