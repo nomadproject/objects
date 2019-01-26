@@ -33,7 +33,13 @@
         "@none": [
           "_description-of-objects-acquired-in-mogadishu"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/_description-of-objects-acquired-in-mogadishu/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

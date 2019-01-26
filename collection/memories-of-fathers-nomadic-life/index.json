@@ -33,7 +33,13 @@
         "@none": [
           "_memories-of-fathers-nomadic-life"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/_memories-of-fathers-nomadic-life/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

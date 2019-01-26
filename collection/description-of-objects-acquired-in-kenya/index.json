@@ -33,7 +33,13 @@
         "@none": [
           "_description-of-objects-acquired-in-kenya"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/_description-of-objects-acquired-in-kenya/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

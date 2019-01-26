@@ -21,15 +21,6 @@
       }
     },
     {
-      "id": "https://nomadproject.netlify.com/collection/description-of-objects-wedding-gift-and-home/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Description of Objects, Wedding Gift and Home"
-        ]
-      }
-    },
-    {
       "id": "https://nomadproject.netlify.com/collection/gold-broach/index.json",
       "type": "Manifest",
       "label": {
@@ -147,7 +138,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel/thumb.jpg",
           "type": "Image"
         }
       ]
