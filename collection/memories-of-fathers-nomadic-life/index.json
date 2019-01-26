@@ -1,0 +1,120 @@
+{
+  "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/_memories-of-fathers-nomadic-life/memories-of-fathers-nomadic-life.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "label": {
+                  "@none": [
+                    "_memories-of-fathers-nomadic-life"
+                  ]
+                }
+              },
+              "target": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_memories-of-fathers-nomadic-life"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Memories of Father's Nomadic Life"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC BY-NC-SA 4.0</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://nomad-project.co.uk\">Nomad project</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Audio Recording"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
+        ]
+      }
+    }
+  ],
+  "attribution": "Abdi Hirsi",
+  "description": "Recollecting memories of his nomadic father and stories he used to tell over the fire. Interviewee also speaks about the importance of recognising the artistry in Somali crafts."
+}

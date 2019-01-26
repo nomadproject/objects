@@ -1,0 +1,120 @@
+{
+  "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/_description-of-objects-acquired-in-kenya/description-of-objects-acquired-in-kenya.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "label": {
+                  "@none": [
+                    "_description-of-objects-acquired-in-kenya"
+                  ]
+                }
+              },
+              "target": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_description-of-objects-acquired-in-kenya"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Description of Objects Acquired in Kenya"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC BY-NC-SA 4.0</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://nomad-project.co.uk\">Nomad project</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Audio Recording"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
+        ]
+      }
+    }
+  ],
+  "attribution": "Ibrahim X",
+  "description": "The intereviewee speaks about the two objects his mother acquired in a Somali crafts shop in Kenya."
+}

@@ -3,6 +3,33 @@
   "type": "Collection",
   "items": [
     {
+      "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-kenya/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Description of Objects Acquired in Kenya"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Description of Objects Acquired in Mogadishu"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/description-of-objects-wedding-gift-and-home/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Description of Objects, Wedding Gift and Home"
+        ]
+      }
+    },
+    {
       "id": "https://nomadproject.netlify.com/collection/gold-broach/index.json",
       "type": "Manifest",
       "label": {
@@ -12,7 +39,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomadproject.netlify.com/collection/gold-broach/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/gold-broach/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -61,6 +88,24 @@
           "type": "Image"
         }
       ]
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/memories-of-fathers-nomadic-life/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Memories of Father's Nomadic Life"
+        ]
+      }
+    },
+    {
+      "id": "https://nomadproject.netlify.com/collection/memories-of-home/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Memories of Home"
+        ]
+      }
     },
     {
       "id": "https://nomadproject.netlify.com/collection/toy-lion/index.json",
@@ -117,7 +162,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -132,7 +177,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/thumb.jpeg",
+          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/thumb.jpg",
           "type": "Image"
         }
       ]
