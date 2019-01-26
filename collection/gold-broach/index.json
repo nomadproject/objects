@@ -22,7 +22,9 @@
                   "@none": [
                     "_gold-broach"
                   ]
-                }
+                },
+                "width": 3000,
+                "height": 2001
               },
               "target": "https://nomadproject.netlify.com/collection/gold-broach/index.json/canvas/0"
             }
@@ -33,7 +35,9 @@
         "@none": [
           "_gold-broach"
         ]
-      }
+      },
+      "width": 3000,
+      "height": 2001
     }
   ],
   "label": {

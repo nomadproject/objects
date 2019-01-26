@@ -1,44 +1,45 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/index.json",
+  "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/index.json/canvas/0",
+      "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/index.json/canvas/0/annotation/0",
+              "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/_description-of-objects-acquired-in-mogadishu/description-of-objects-acquired-in-mogadishu.mp3",
+                "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/_objects-acquired-in-kenya/objects-acquired-in-kenya.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "label": {
                   "@none": [
-                    "_description-of-objects-acquired-in-mogadishu"
+                    "_objects-acquired-in-kenya"
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/index.json/canvas/0"
+              "target": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0"
             }
           ]
         }
       ],
       "label": {
         "@none": [
-          "_description-of-objects-acquired-in-mogadishu"
+          "_objects-acquired-in-kenya"
         ]
-      }
+      },
+      "duration": 68.474187
     }
   ],
   "label": {
     "@none": [
-      "Description of Objects Acquired in Mogadishu"
+      "Objects Acquired in Kenya"
     ]
   },
   "metadata": [
@@ -115,11 +116,11 @@
       }
     }
   ],
-  "attribution": "Ayan Lowe",
-  "description": "Born in Somalia in the early '60s the interviewee discusses the objects her mother acquired while they were in Mogadishu.",
+  "attribution": "Ibrahim X",
+  "description": "The intereviewee speaks about the two objects his mother acquired in a Somali crafts shop in Kenya.",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/description-of-objects-acquired-in-mogadishu/thumb.jpg",
+      "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/thumb.jpg",
       "type": "Image"
     }
   ]

@@ -22,7 +22,9 @@
                   "@none": [
                     "_wooden-spoon"
                   ]
-                }
+                },
+                "width": 3000,
+                "height": 2000
               },
               "target": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0"
             }
@@ -33,7 +35,9 @@
         "@none": [
           "_wooden-spoon"
         ]
-      }
+      },
+      "width": 3000,
+      "height": 2000
     }
   ],
   "label": {

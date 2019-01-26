@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:preview": "biiif collection -u https://nomadproject.netlify.com/collection",
-    "build:dev": "biiif collection -u https://localhost:5000/objects/collection ",
-    "build": "biiif collection -u https://nomad-project.co.uk/objects/collection",
+    "build:preview": "npx biiif collection -u https://nomadproject.netlify.com/collection",
+    "build:dev": "npx biiif collection -u https://localhost:5000/objects/collection ",
+    "build": "npx biiif collection -u https://nomad-project.co.uk/objects/collection",
     "start": "npx serve"
   },
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/nomadproject/objects#readme",
   "dependencies": {
-    "biiif-cli": "0.1.6"
+    "biiif-cli": "0.1.15"
   }
 }
