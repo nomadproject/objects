@@ -84,7 +84,13 @@
         "@none": [
           "Memories of Home"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://nomad-project.co.uk/objects/collection/memories-of-home/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/index.json",
