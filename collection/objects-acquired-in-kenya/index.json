@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json",
+  "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0",
+      "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/_objects-acquired-in-kenya/objects-acquired-in-kenya.mp3",
+                "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/_objects-acquired-in-kenya/objects-acquired-in-kenya.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/index.json/canvas/0"
+              "target": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/index.json/canvas/0"
             }
           ]
         }
@@ -132,7 +132,7 @@
   "description": "The intereviewee speaks about the two objects his mother acquired in a Somali crafts shop in Kenya.",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/objects-acquired-in-kenya/thumb.jpg",
+      "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-kenya/thumb.jpg",
       "type": "Image"
     }
   ]

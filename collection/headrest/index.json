@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/headrest/index.json",
+  "id": "https://nomad-project.co.uk/objects/collection/headrest/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0",
+      "id": "https://nomad-project.co.uk/objects/collection/headrest/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project.co.uk/objects/collection/headrest/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project.co.uk/objects/collection/headrest/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/headrest/_headrest/headrest.gltf",
+                "id": "https://nomad-project.co.uk/objects/collection/headrest/_headrest/headrest.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomadproject.netlify.com/collection/headrest/index.json/canvas/0"
+              "target": "https://nomad-project.co.uk/objects/collection/headrest/index.json/canvas/0"
             }
           ]
         }
@@ -131,7 +131,7 @@
   "description": "Barkin is the modern Somali for pillow. This headrest is made of light but sturdy wood. Nomadic herders carried portable headrests and used them to rest while keeping an eye on their herds. They were not made for comfort, as herders needed to stay alert. British Museum collection info https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3358464&partId=1",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/headrest/thumb.jpg",
+      "id": "https://nomad-project.co.uk/objects/collection/headrest/thumb.jpg",
       "type": "Image"
     }
   ]

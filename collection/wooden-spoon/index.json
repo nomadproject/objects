@@ -1,21 +1,21 @@
 {
-  "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json",
+  "id": "https://nomad-project.co.uk/objects/collection/wooden-spoon/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0",
+      "id": "https://nomad-project.co.uk/objects/collection/wooden-spoon/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project.co.uk/objects/collection/wooden-spoon/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project.co.uk/objects/collection/wooden-spoon/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomadproject.netlify.com/collection/wooden-spoon/_wooden-spoon/wooden-spoon.jpg",
+                "id": "https://nomad-project.co.uk/objects/collection/wooden-spoon/_wooden-spoon/wooden-spoon.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -26,7 +26,7 @@
                 "width": 3000,
                 "height": 2000
               },
-              "target": "https://nomadproject.netlify.com/collection/wooden-spoon/index.json/canvas/0"
+              "target": "https://nomad-project.co.uk/objects/collection/wooden-spoon/index.json/canvas/0"
             }
           ]
         }
@@ -135,7 +135,7 @@
   "description": "In the Somali region, spoons are an important everyday tool within Nomadic life. They are traditionally made by men and used for preparing and serving food. This spoon has an ornately decorated handle.",
   "thumbnail": [
     {
-      "id": "https://nomadproject.netlify.com/collection/wooden-spoon/thumb.jpg",
+      "id": "https://nomad-project.co.uk/objects/collection/wooden-spoon/thumb.jpg",
       "type": "Image"
     }
   ]
