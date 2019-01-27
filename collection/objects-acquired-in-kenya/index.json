@@ -20,7 +20,7 @@
                 "format": "audio/mp3",
                 "label": {
                   "@none": [
-                    "_objects-acquired-in-kenya"
+                    "Objects Acquired in Kenya"
                   ]
                 }
               },
@@ -31,7 +31,7 @@
       ],
       "label": {
         "@none": [
-          "_objects-acquired-in-kenya"
+          "Objects Acquired in Kenya"
         ]
       },
       "duration": 68.474187

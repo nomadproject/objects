@@ -20,7 +20,7 @@
                 "format": "audio/mp3",
                 "label": {
                   "@none": [
-                    "_objects-acquired-in-mogadishu"
+                    "Objects Acquired in Mogadishu"
                   ]
                 }
               },
@@ -31,7 +31,7 @@
       ],
       "label": {
         "@none": [
-          "_objects-acquired-in-mogadishu"
+          "Objects Acquired in Mogadishu"
         ]
       },
       "duration": 215.414562
