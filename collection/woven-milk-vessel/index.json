@@ -69,6 +69,18 @@
     {
       "label": {
         "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Sophie Dixon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
           "date"
         ]
       },

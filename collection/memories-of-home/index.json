@@ -20,7 +20,7 @@
                 "format": "audio/mp3",
                 "label": {
                   "@none": [
-                    "_memories-of-home"
+                    "Memories of Home"
                   ]
                 }
               },
@@ -31,9 +31,10 @@
       ],
       "label": {
         "@none": [
-          "_memories-of-home"
+          "Memories of Home"
         ]
-      }
+      },
+      "duration": 198.734563
     }
   ],
   "label": {
@@ -63,6 +64,18 @@
       "value": {
         "@none": [
           "<a href=\"http://nomad-project.co.uk\">Nomad project</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Hamda Musa"
         ]
       }
     },

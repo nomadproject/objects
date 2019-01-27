@@ -69,6 +69,18 @@
     {
       "label": {
         "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "British Museum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
           "date"
         ]
       },
