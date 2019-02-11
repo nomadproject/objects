@@ -1,9 +1,9 @@
 {
-  "id": "https://nomad-project-preview.netlify.com/collection/index.json",
+  "id": "https://nomad-project.netlify.com/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/gold-broach/index.json",
+      "id": "https://nomad-project.netlify.com/collection/gold-broach/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/gold-broach/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/gold-broach/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/gourd/index.json",
+      "id": "https://nomad-project.netlify.com/collection/gourd/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/gourd/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/gourd/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/headrest/index.json",
+      "id": "https://nomad-project.netlify.com/collection/headrest/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +42,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/headrest/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/headrest/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/incense-burner/index.json",
+      "id": "https://nomad-project.netlify.com/collection/incense-burner/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,13 +57,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/incense-burner/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/incense-burner/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/memories-of-fathers-nomadic-life/index.json",
+      "id": "https://nomad-project.netlify.com/collection/memories-of-fathers-nomadic-life/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -72,13 +72,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/memories-of-fathers-nomadic-life/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/memories-of-fathers-nomadic-life/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/index.json",
+      "id": "https://nomad-project.netlify.com/collection/memories-of-home/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -87,13 +87,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/memories-of-home/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-kenya/index.json",
+      "id": "https://nomad-project.netlify.com/collection/objects-acquired-in-kenya/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -102,13 +102,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-kenya/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/objects-acquired-in-kenya/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/index.json",
+      "id": "https://nomad-project.netlify.com/collection/objects-acquired-in-mogadishu/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -117,13 +117,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/objects-acquired-in-mogadishu/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/toy-lion/index.json",
+      "id": "https://nomad-project.netlify.com/collection/toy-lion/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -132,13 +132,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/toy-lion/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/toy-lion/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/wooden-bowl/index.json",
+      "id": "https://nomad-project.netlify.com/collection/wooden-bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -147,13 +147,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/wooden-bowl/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/wooden-bowl/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/wooden-milk-vessel/index.json",
+      "id": "https://nomad-project.netlify.com/collection/wooden-milk-vessel/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -162,13 +162,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/wooden-milk-vessel/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/wooden-milk-vessel/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json",
+      "id": "https://nomad-project.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -177,13 +177,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/wooden-milk-vessel-with-leather-strap/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/wooden-milk-vessel-with-leather-strap/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/wooden-spoon/index.json",
+      "id": "https://nomad-project.netlify.com/collection/wooden-spoon/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -192,13 +192,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/wooden-spoon/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/wooden-spoon/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/woven-basket/index.json",
+      "id": "https://nomad-project.netlify.com/collection/woven-basket/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -207,13 +207,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/woven-basket/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/woven-basket/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/woven-bowl/index.json",
+      "id": "https://nomad-project.netlify.com/collection/woven-bowl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -222,13 +222,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/woven-bowl/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/woven-bowl/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/woven-lid/index.json",
+      "id": "https://nomad-project.netlify.com/collection/woven-lid/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -237,13 +237,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/woven-lid/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/woven-lid/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/index.json",
+      "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -252,7 +252,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/thumb.jpg",
+          "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/thumb.jpg",
           "type": "Image"
         }
       ]

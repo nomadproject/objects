@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/index.json",
+  "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/index.json/canvas/0",
+      "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/_woven-milk-vessel/woven-milk-vessel.gltf",
+                "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/_woven-milk-vessel/woven-milk-vessel.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/index.json/canvas/0"
+              "target": "https://nomad-project.netlify.com/collection/woven-milk-vessel/index.json/canvas/0"
             }
           ]
         }
@@ -131,7 +131,7 @@
   "description": "This milk container is usually found in the northern and central regions. It is made out of Caw, a particularly pliable plant, the fibres of which are used to skillfully weave this vessel. The vessel is then rubbed with the fermented leaves of the tree known as Asal, this gives its distinctive red colour to beautify it and to prepare the container to hold liquid. This is achieved through using grease made from sheep fat to line the inside of the container, and then it is sterilised from germs.",
   "thumbnail": [
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/woven-milk-vessel/thumb.jpg",
+      "id": "https://nomad-project.netlify.com/collection/woven-milk-vessel/thumb.jpg",
       "type": "Image"
     }
   ]

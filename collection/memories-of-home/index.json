@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/index.json",
+  "id": "https://nomad-project.netlify.com/collection/memories-of-home/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/index.json/canvas/0",
+      "id": "https://nomad-project.netlify.com/collection/memories-of-home/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project.netlify.com/collection/memories-of-home/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project.netlify.com/collection/memories-of-home/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/_memories-of-home/memories-of-home.mp3",
+                "id": "https://nomad-project.netlify.com/collection/memories-of-home/_memories-of-home/memories-of-home.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomad-project-preview.netlify.com/collection/memories-of-home/index.json/canvas/0"
+              "target": "https://nomad-project.netlify.com/collection/memories-of-home/index.json/canvas/0"
             }
           ]
         }
@@ -132,7 +132,7 @@
   "description": "The interviewee discusses the objects she acquired during a visit to Hargeisa, and the memories they trigger of home and her grandmother.",
   "thumbnail": [
     {
-      "id": "https://nomad-project-preview.netlify.com/collection/memories-of-home/thumb.jpg",
+      "id": "https://nomad-project.netlify.com/collection/memories-of-home/thumb.jpg",
       "type": "Image"
     }
   ]
