@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/index.json",
+  "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0",
+      "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0/annotation/0",
+              "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/_wooden-milk-vessel-with-leather-strap/wooden-milk-vessel-with-leather-strap.jpg",
+                "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/_wooden-milk-vessel-with-leather-strap/wooden-milk-vessel-with-leather-strap.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -26,7 +26,7 @@
                 "width": 3000,
                 "height": 1999
               },
-              "target": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0"
+              "target": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/index.json/canvas/0"
             }
           ]
         }
@@ -135,7 +135,7 @@
   "description": "This container is used for collecting and carrying milk. It has a lid and a handle. Carved out of wood this item is often found in the Southern regions of Somalia.",
   "thumbnail": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/wooden-milk-vessel-with-leather-strap/thumb.jpg",
+      "id": "https://nomadproject.netlify.com/collection/wooden-milk-vessel-with-leather-strap/thumb.jpg",
       "type": "Image"
     }
   ]

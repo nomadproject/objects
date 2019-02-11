@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project.co.uk/objects/collection/gourd/index.json",
+  "id": "https://nomadproject.netlify.com/collection/gourd/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/gourd/index.json/canvas/0",
+      "id": "https://nomadproject.netlify.com/collection/gourd/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/gourd/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomadproject.netlify.com/collection/gourd/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project.co.uk/objects/collection/gourd/index.json/canvas/0/annotation/0",
+              "id": "https://nomadproject.netlify.com/collection/gourd/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project.co.uk/objects/collection/gourd/_gourd/gourd.gltf",
+                "id": "https://nomadproject.netlify.com/collection/gourd/_gourd/gourd.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomad-project.co.uk/objects/collection/gourd/index.json/canvas/0"
+              "target": "https://nomadproject.netlify.com/collection/gourd/index.json/canvas/0"
             }
           ]
         }
@@ -131,7 +131,7 @@
   "description": "This vessel is made from a hollowed-out ubo, a marrow-like vegetable. Used to make practical objects, they are light, durable and easily available. In the Somali region they are often used for transporting drinking water and for storing water for washing in preparation for prayer. This water carrier is richly decorated in a geometric style. British Museum collection info https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=597651&partId=1",
   "thumbnail": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/gourd/thumb.jpg",
+      "id": "https://nomadproject.netlify.com/collection/gourd/thumb.jpg",
       "type": "Image"
     }
   ]
