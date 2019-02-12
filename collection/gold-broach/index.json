@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project.netlify.com/collection/gold-broach/index.json",
+  "id": "https://nomad-project.co.uk/objects/collection/gold-broach/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project.netlify.com/collection/gold-broach/index.json/canvas/0",
+      "id": "https://nomad-project.co.uk/objects/collection/gold-broach/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project.netlify.com/collection/gold-broach/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project.co.uk/objects/collection/gold-broach/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project.netlify.com/collection/gold-broach/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project.co.uk/objects/collection/gold-broach/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project.netlify.com/collection/gold-broach/_gold-broach/gold-broach.jpg",
+                "id": "https://nomad-project.co.uk/objects/collection/gold-broach/_gold-broach/gold-broach.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -26,7 +26,7 @@
                 "width": 3000,
                 "height": 2001
               },
-              "target": "https://nomad-project.netlify.com/collection/gold-broach/index.json/canvas/0"
+              "target": "https://nomad-project.co.uk/objects/collection/gold-broach/index.json/canvas/0"
             }
           ]
         }
@@ -135,7 +135,7 @@
   "description": "Received as a gift, this broach is of two gold leaves attached at the stalk.",
   "thumbnail": [
     {
-      "id": "https://nomad-project.netlify.com/collection/gold-broach/thumb.jpg",
+      "id": "https://nomad-project.co.uk/objects/collection/gold-broach/thumb.jpg",
       "type": "Image"
     }
   ]
