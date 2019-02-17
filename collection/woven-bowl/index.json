@@ -77,9 +77,58 @@
           "Cyreal"
         ]
       }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          2018
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "digitised"
+        ]
+      },
+      "value": {
+        "@none": [
+          "October 2018"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "format"
+        ]
+      },
+      "value": {
+        "@none": [
+          "3D model"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "coverage"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Somalia"
+        ]
+      }
     }
   ],
-  "attribution": "Cyreal",
+  "attribution": "Fadumo Hassan",
+  "description": "This Woven bowl would be used for presenting food such as fruit, particularly dry food. It is has been dyed with several colours to create a striking pattern. It has a woven ring underneath to provide height and stability, it is made out of dried grass like the bowl but has not been treated with a dye.",
   "thumbnail": [
     {
       "id": "https://nomad-project.co.uk/objects/collection/woven-bowl/thumb.jpg",
