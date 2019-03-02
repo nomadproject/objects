@@ -1,21 +1,21 @@
 {
-  "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json",
+  "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json/canvas/0",
+      "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json/canvas/0/annotationpage/0",
+          "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json/canvas/0/annotation/0",
+              "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/_objects-acquired-in-mogadishu/objects-acquired-in-mogadishu.mp3",
+                "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/_objects-acquired-in-mogadishu/objects-acquired-in-mogadishu.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json/canvas/0"
+              "target": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/index.json/canvas/0"
             }
           ]
         }
@@ -132,7 +132,7 @@
   "description": "Born in Somalia in the early '60s the interviewee discusses the objects her mother acquired while they were in Mogadishu.",
   "thumbnail": [
     {
-      "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/thumb.jpg",
+      "id": "https://nomad-project-preview.netlify.com/collection/objects-acquired-in-mogadishu/thumb.jpg",
       "type": "Image"
     }
   ]

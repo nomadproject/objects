@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:preview": "npx biiif collection -u https://nomad-project.netlify.com/collection",
+    "build:preview": "npx biiif collection -u https://nomad-project-preview.netlify.com/collection",
     "build:dev": "npx biiif collection -u https://localhost:5000/objects/collection ",
     "build": "npx biiif collection -u https://nomad-project.co.uk/objects/collection",
     "start": "npx serve"
