@@ -20,7 +20,7 @@
               "motivation": "painting",
               "body": {
                 "id": "https://nomad-project.co.uk/objects/collection/woven-lid/_woven-lid/woven-lid.gltf",
-                "type": "Model",
+                "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [

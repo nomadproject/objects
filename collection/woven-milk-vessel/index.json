@@ -20,7 +20,7 @@
               "motivation": "painting",
               "body": {
                 "id": "https://nomad-project.co.uk/objects/collection/woven-milk-vessel/_woven-milk-vessel/woven-milk-vessel.gltf",
-                "type": "Model",
+                "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [
