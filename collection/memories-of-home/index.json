@@ -1,4 +1,8 @@
 {
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://nomad-project.co.uk/objects/collection/memories-of-home/index.json",
   "type": "Manifest",
   "items": [
@@ -21,6 +25,22 @@
                 "label": {
                   "@none": [
                     "Memories of Home"
+                  ]
+                }
+              },
+              "target": "https://nomad-project.co.uk/objects/collection/memories-of-home/index.json/canvas/0"
+            },
+            {
+              "id": "https://nomad-project.co.uk/objects/collection/memories-of-home/index.json/canvas/0/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomad-project.co.uk/objects/collection/memories-of-home/_memories-of-home/memories-of-home.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "label": {
+                  "@none": [
+                    "_memories-of-home"
                   ]
                 }
               },

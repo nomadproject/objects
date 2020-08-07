@@ -1,4 +1,8 @@
 {
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://nomad-project.co.uk/objects/collection/woven-basket/index.json",
   "type": "Manifest",
   "items": [
@@ -16,7 +20,7 @@
               "motivation": "painting",
               "body": {
                 "id": "https://nomad-project.co.uk/objects/collection/woven-basket/_woven-basket/bowl.gltf",
-                "type": "PhysicalObject",
+                "type": "Model",
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [

@@ -1,4 +1,8 @@
 {
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json",
   "type": "Manifest",
   "items": [
@@ -21,6 +25,22 @@
                 "label": {
                   "@none": [
                     "Objects Acquired in Mogadishu"
+                  ]
+                }
+              },
+              "target": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json/canvas/0"
+            },
+            {
+              "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/index.json/canvas/0/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nomad-project.co.uk/objects/collection/objects-acquired-in-mogadishu/_objects-acquired-in-mogadishu/objects-acquired-in-mogadishu.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "label": {
+                  "@none": [
+                    "_objects-acquired-in-mogadishu"
                   ]
                 }
               },
